@@ -1,4 +1,4 @@
-# AI Support Chatbot - Русское руководство
+# AI Support Chatbot(extended) - Русское руководство
 
 ## Описание проекта
 
